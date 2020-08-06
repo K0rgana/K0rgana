@@ -36,7 +36,5 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 Feel free to explore the projects and collaborate on I'm working and repositories available here.
 
-#### Some of my Github Public Stats
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k0rgana&count_private=true&hide=stars&show_icons=true&theme=buefy)](https://github.com/k0rgana)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0rgana&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)

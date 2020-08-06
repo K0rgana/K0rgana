@@ -12,14 +12,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://k0rgana.github.io/"><img src="https://i.imgur.com/RNxqKWd.jpg" align="right" height="200" /></a>
 -->
-### Hi there! 👋
+### Hi there, nice to see you here 👋
 
-My name is Morgana Albuquerque from Recife (🇧🇷). Ex-aspiring publicist, who found herself in programming in the midst of self-taught studies in web design. I'm currently studying Systems for the Internet at Federal Institute of Education Science and Technology of Pernambuco - IFPE and I'm kind of an enthusiast on projects where I can use my knowledge of technology to help promote social inclusion. 
+[![Gmail Badge](https://img.shields.io/badge/-morganaf.albuquerque@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:morganaf.albuquerque@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-k0rgana-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/k0rgana/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@korgana-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/korgana "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@k0rgana-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=k0rgana "Follow on Twitter")
 
-In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to podcasts (🎵).
+I'm Morgana, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/3069/3069353.svg" width="13"/> <b>Recife, Pernambuco (🇧🇷)</b>. Ex-aspiring publicist :mega:, who found herself in programming in the midst of self-taught studies in web design. I'm currently studying Systems for the Internet :mortar_board: at Federal Institute of Education Science and Technology of Pernambuco - IFPE and I'm kind of an enthusiast on projects where I can use my knowledge of technology to help promote social inclusion :v:. 
 
-- 😄 Pronouns: She/Her
+In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to podcasts (:headphones:).
+
+- 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
 
 - 🖥️ Technologies: CSS | HTML | MySQL | PHP | Javascript | Git ;
 
@@ -29,9 +35,10 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 Feel free to explore the projects and collaborate on I'm working and repositories available here.
 
-📫 Would you like to find me?
+#### Some of my Github Public Stats
 
-[![Portifolio Badge](https://img.shields.io/badge/site-https%3A%2F%2Fk0rgana.github.io%2F-green)](https://k0rgana.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/k0rgana)](https://twitter.com/k0rgana)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k0rgana)](https://www.linkedin.com/in/k0rgana)
+![Profile Views](https://komarev.com/ghpvc/?username=k0rgana&color=7802aa)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k0rgana&count_private=true&hide=stars&show_icons=true&theme=buefy)](https://github.com/k0rgana)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0rgana&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)

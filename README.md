@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 [![Telegram Badge](https://img.shields.io/badge/-@korgana-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/korgana "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@k0rgana-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=k0rgana "Follow on Twitter")
  ![Profile Views](https://komarev.com/ghpvc/?username=k0rgana&color=7802aa)
+ 
+<a href="https://k0rgana.github.io/"><img src="https://imgur.com/ostAIKK.jpg" align="right" height="200" /></a>
 
 I'm Morgana, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/3069/3069353.svg" width="13"/> <b>Recife, Pernambuco (🇧🇷)</b>. Ex-aspiring publicist :mega:, who found herself in programming in the midst of self-taught studies in web design. I'm currently studying Systems for the Internet :mortar_board: at Federal Institute of Education Science and Technology of Pernambuco - IFPE and I'm kind of an enthusiast on projects where I can use my knowledge of technology to help promote social inclusion :v:. 
 

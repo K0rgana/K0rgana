@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/-morganaf.albuquerque@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:morganaf.albuquerque@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-k0rgana-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/k0rgana/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@korgana-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/korgana "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@k0rgana-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=k0rgana "Follow on Twitter")
  ![Profile Views](https://komarev.com/ghpvc/?username=k0rgana&color=7802aa)
  

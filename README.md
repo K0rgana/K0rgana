@@ -36,9 +36,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
  - 🔗 My website: [https://k0rgana.github.io/](https://k0rgana.github.io/)
  
  <p align="center">
-    <a href="http://hits.dwyl.com/k0rgana/k0rgana">
-      <img align="left" src="http://hits.dwyl.com/k0rgana/k0rgana.svg">
-    </a>
+      <img align="left" src="https://komarev.com/ghpvc/?username=k0rgana&style=flat-square&color=8d71db" alt="Profile Views">
  </p>
  
  </br>
@@ -81,8 +79,6 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k0rgana" alt="k0rgana" /></a> </p>
 
 </details>
-
-</br>
 
 ### Show some ❤️ by starring some of the repositories!
 

@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <a href="https://k0rgana.github.io/"><img src="https://i.imgur.com/RNxqKWd.jpg" align="right" height="200" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k0rgana&style=flat-square&color=8d71db" alt="Profile Views" /> </p>
 -->
 <h1>Hey, nice to see you <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+
+<a href="https://k0rgana.github.io/"><img src="https://imgur.com/ostAIKK.jpg" align="right" height="200" /></a>
 
 <br>
 
@@ -23,29 +26,20 @@ Hi, I'm [Morgana Albuquerque](https://k0rgana.github.io/), a fullstack developer
 In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to podcasts (:headphones:).
 
 - 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
-
 - ⚡ Fun fact: I'm a big fan of Doctor Who (favorite doctor: 12th )
+- 🔭 I am looking for the first opportunity to work with Web Development
+- 🌱 Currently I have dedicated myself to the most advanced studies of JavaScript and its frameworks
 
-- 🔭 I am looking for the first opportunity to work with Web Development;
-
-- 🌱 Currently I have dedicated myself to the most advanced studies of JavaScript and its frameworks;
-
-<br>
-
-<img align="right" height="200" alt=" " src="https://imgur.com/ostAIKK.jpg" />
-
- - 📫 How to reach me: [morganaf.albuquerque@gmail.com](mailto:morganaf.albuquerque@gmail.com);
- - 🔗 My website: [https://k0rgana.github.io/](https://k0rgana.github.io/)
+ </br>
  
- <br>
+ - 📫 How to reach me: [morganaf.albuquerque@gmail.com](mailto:morganaf.albuquerque@gmail.com)
+ - 🔗 My website: [https://k0rgana.github.io/](https://k0rgana.github.io/)
  
  <p align="center">
     <a href="http://hits.dwyl.com/k0rgana/k0rgana">
       <img align="left" src="http://hits.dwyl.com/k0rgana/k0rgana.svg">
     </a>
  </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k0rgana&style=flat-square&color=8d71db" alt="Profile Views" /> </p>
  
  </br>
 
@@ -53,12 +47,19 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
 ---

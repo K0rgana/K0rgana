@@ -28,7 +28,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
  </br>
  
- - 📫 How to reach me: [morganaf.albuquerque@gmail.com](mailto:morganaf.albuquerque@gmail.com) | [LinkedIn: k0rgana](https://www.linkedin.com/in/korgana)
+ - 📫 How to reach me: [morganaf.albuquerque@gmail.com](mailto:morganaf.albuquerque@gmail.com) | [LinkedIn: k0rgana](https://www.linkedin.com/in/k0rgana/)
  - 🔗 My website: [https://k0rgana.github.io/](https://k0rgana.github.io/)
  
  <p align="center">
